@@ -6,7 +6,7 @@ Namespaced Consolidated Avatar Template Package for Meteor
 
 Note
 ----
-This is a namespaced version of [bengott's meteor-avatar package](https://atmospherejs.com/bengott/avatar)that plays nice with [Materialize](https://atmospherejs.com/materialize/materialize). 
+This is a namespaced version of [bengott's meteor-avatar package](https://atmospherejs.com/bengott/avatar) that plays nice with [Materialize](https://atmospherejs.com/materialize/materialize).
 
 ANNOUNCEMENT
 ------------
