@@ -1,8 +1,12 @@
 ![logo](https://raw.githubusercontent.com/bengott/images/master/avatar-logo.png)
 ================================================================================
 
-Consolidated Avatar Template Package for Meteor
+Namespaced Consolidated Avatar Template Package for Meteor
 -----------------------------------------------
+
+Note
+----
+This is a namespaced version of [bengott's meteor-avatar package](https://atmospherejs.com/bengott/avatar)that plays nice with [Materialize](https://atmospherejs.com/materialize/materialize). 
 
 ANNOUNCEMENT
 ------------
@@ -17,7 +21,7 @@ Installation
 ------------
 In your Meteor project directory, run:
 ```shell
-$ meteor add bengott:avatar
+$ meteor add indymike:avatar
 ```
 Of course, you also need to add the accounts-<service> packages for the services you're using (e.g. accounts-twitter) and accounts-ui or something similar in order to add login functionality to your app.
 
