@@ -4,6 +4,10 @@
 Consolidated Avatar Template Package for Meteor
 -----------------------------------------------
 
+**This is a namespaced css version that simply ads ma- to all avatar css classes.
+This allows frameworks like Materialize that also have an avatar class to work with
+this otherwise very useful package.**
+
 ANNOUNCEMENT
 ------------
 I realize that I haven't been keeping up with issues and pull requests very well recently, and now there's a 2-month backlog. Part of the reason is that moving to California and starting a new job didn't leave me with much time for Avatar. On top of that, many of the issues/PRs overlap with functionality I planned to build anyway, so I put them off in order to avoid duplicating effort. Looking back now, that may have been shortsighted. I'm going to do my best to sort through the outstanding issues and provide support for features that users have been requesting (both by merging PRs and by writing new code). Expect changes soon! -Ben

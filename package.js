@@ -1,8 +1,8 @@
 Package.describe({
-  name: "bengott:avatar",
-  summary: "Consolidated user avatar template (twitter, facebook, gravatar, etc.)",
+  name: "indymike:avatar",
+  summary: "Consolidated user avatar template w/ namespaced css (twitter, facebook, gravatar, etc.)",
   version: "0.7.5",
-  git: "https://github.com/bengott/meteor-avatar"
+  git: "https://github.com/indymike/meteor-avatar"
 });
 
 Package.onUse(function(api) {
