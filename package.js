@@ -1,7 +1,7 @@
 Package.describe({
   name: "indymike:avatar",
   summary: "Consolidated user avatar template w/ namespaced css (twitter, facebook, gravatar, etc.)",
-  version: "0.7.5",
+  version: "0.7.6",
   git: "https://github.com/indymike/meteor-avatar"
 });
 
