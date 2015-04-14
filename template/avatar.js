@@ -24,7 +24,7 @@ Template.avatar.helpers({
     // If image loaded successfully, hide initials and show image.
     // Otherwise, hide image and show initials.
     var hasImage = Template.instance().hasImage.get();
-    return hasImage ? 'avatar-hide-initials' : 'ma-avatar-hide-image';
+    return hasImage ? 'ma-avatar-hide-initials' : 'ma-avatar-hide-image';
   },
 
   class: function () { return this.class; },
